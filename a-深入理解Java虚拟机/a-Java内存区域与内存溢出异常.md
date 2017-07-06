@@ -1,6 +1,6 @@
 ## JVM内存
 
-![](https://github.com/xuxh0622/booklist/blob/master/a-%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3Java%E8%99%9A%E6%8B%9F%E6%9C%BA/image/aa.JPG)
+![](https://github.com/xuxh0622/booklist/blob/master/z-image/aa.JPG)
 
 ```java
 /**

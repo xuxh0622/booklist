@@ -1,0 +1,10 @@
+package com.alice.spring.aop;
+/**
+ * 设置通知
+ * @author xuxhm
+ *
+ */
+public class Adivisor {
+
+	
+}
